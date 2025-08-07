@@ -35,8 +35,6 @@ Feel free to reach out if you'd like to collaborate, discuss ideas, or just conn
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code"/>
 </p>
 
-<p><img src="https://img.icons8.com/ios-filled/50/000000/keyboard.png" height="30"/> Typing Speed: 160+ WPM</p>
-
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- [Vibify-url]: https://github.com/om-arya/Vibify -->
 <!-- [FinSight-url]: https://github.com/om-arya/FinSight -->
