@@ -6,7 +6,7 @@
 ## About Me
 I'm a junior at the University of Michigan-Flint pursuing a Bachelor of Science in Computer Science. I'm an aspiring software engineer with a secondary interest in penetration testing/ethical hacking and cybersecurity engineering. I thrive on tackling technical challenges and learning by doing. Whether it's experimenting with new tools or building practical solutions, I'm always looking for ways to create meaningful impact. I approach every project with a balance of critical thinking and a strong focus on the end-user experience.
 
-## Recent Projects 🛠
+## Recent Projects 📦
 * [Vibify][Vibify-url] - A project.
 * [FinSight][FinSight-url] - A project 2.
 * [T.O.M. - Tabby of Motivation][TOM-url] - A project 3.
