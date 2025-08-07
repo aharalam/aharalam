@@ -32,6 +32,7 @@ Feel free to reach out if you'd like to collaborate, discuss ideas, or just conn
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" height="40" alt="GitHub" style="background-color:#181717; border-radius: 6px; padding: 4px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="Arduino"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/discord.svg" height="40" alt="Discord" style="background-color: #5865F2; padding: 4px; border-radius: 6px;" />
 </p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
