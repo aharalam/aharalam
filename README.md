@@ -18,7 +18,7 @@ Feel free to reach out if you'd like to collaborate, discuss ideas, or just conn
 <!-- [![E-Mail][Email.com]][Email-url] -->
 
 
-<h3>🛠️ Tools & Technologies</h3>
+## Tools & Technologies 🛠️
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/>
