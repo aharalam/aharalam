@@ -13,9 +13,9 @@ Feel free to reach out if you'd like to collaborate, discuss ideas, or just conn
 <!-- [![E-Mail][Email.com]][Email-url] -->
 
 ## Recent Projects 📦
-* [Vibify][Vibify-url] - A project.
+<!--* [Vibify][Vibify-url] - A project.
 * [FinSight][FinSight-url] - A project 2.
-* [T.O.M. - Tabby of Motivation][TOM-url] - A project 3.
+* [T.O.M. - Tabby of Motivation][TOM-url] - A project 3.-->
 
 ## Tools & Technologies 🛠️
 <p align="left">
