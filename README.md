@@ -17,7 +17,7 @@ Feel free to reach out if you'd like to collaborate, discuss ideas, or just conn
 * [FinSight][FinSight-url] - A project 2.
 * [T.O.M. - Tabby of Motivation][TOM-url] - A project 3.-->
 
-## Tools & Technologies 🛠️
+## Tools & Technologies I'm Learning 🛠️
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/>
