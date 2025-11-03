@@ -1,5 +1,5 @@
 # Hi, I'm Andrew Haralambous! 👋
-💻 Computer Science at the University of Michigan-Flint!
+💻 Computer Science / Software Engineering (Cybersecurity Engineering) at the University of Michigan-Flint!
 
 📍 Flint, MI
 
