@@ -16,7 +16,7 @@ Feel free to reach out if you'd like to collaborate, discuss ideas, or just conn
 <!--* [Vibify][Vibify-url] - A project.
 * [FinSight][FinSight-url] - A project 2.
 * [T.O.M. - Tabby of Motivation][TOM-url] - A project 3.-->
-[CSC377 OS Component Simulator][https://github.com/aharalam/csc377-semester-project]
+[CSC377 OS Component Simulator](https://github.com/aharalam/csc377-semester-project)
 Skillfolio (AI Resume and Portfolio Builder - Closed Source Fullstack SaaS Project)
 
 ## Tools & Technologies I'm Learning 🛠️
